@@ -1,4 +1,4 @@
-# Landing Page da Clinica
+# Landing Page da Clínica
 
 ## Instruções para colocar em operação
 
